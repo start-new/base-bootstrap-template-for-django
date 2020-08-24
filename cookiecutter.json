@@ -1,0 +1,11 @@
+{
+    "project_name": "My Project",
+    "base_templates_dir_name": "templates",
+    "html_language_code": "en",
+    "html_charset": "utf-8",
+    "html_base_title": "{{ cookiecutter.project_name }} | Home",
+    "jquery_version": [
+        "full minified"
+        "slim minified"
+    ]
+}
