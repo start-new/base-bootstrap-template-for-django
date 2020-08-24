@@ -5,7 +5,7 @@
     "html_charset": "utf-8",
     "html_base_title": "{{ cookiecutter.project_name }} | Home",
     "jquery_version": [
-        "full minified"
+        "full minified",
         "slim minified"
     ]
 }
